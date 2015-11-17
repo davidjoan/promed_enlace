@@ -6,9 +6,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Division extends Model {
 
-    protected $table = 'divisions';
-
-    protected $title = 'División';
+    protected $table = 'division';
 
     protected $fillable = ['code', 'name', 'description'];
 

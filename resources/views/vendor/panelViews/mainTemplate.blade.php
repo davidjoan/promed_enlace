@@ -78,7 +78,7 @@ dashboard
             </div>
             <!-- /.navbar-static-side -->
         </nav>
-        <div class="powered-by"><a href="http://laravelpanel.com">Thank you for using LaravelPanel.</a></div> 
+        <div class="powered-by">Desarrollado por FARMINDUSTRIA S.A.</div>
         <div id="page-wrapper">
             
 

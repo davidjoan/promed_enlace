@@ -3,7 +3,7 @@
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateDivisionsTable extends Migration
+class CreateDivisionTable extends Migration
 {
     /**
      * Run the migrations.
@@ -12,7 +12,7 @@ class CreateDivisionsTable extends Migration
      */
     public function up()
     {
-        Schema::create('divisions', function (Blueprint $table) {
+        Schema::create('division', function (Blueprint $table) {
             $table->increments('id');
             $table->string('code');
             $table->string('name')->unique();
