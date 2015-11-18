@@ -1449,16 +1449,16 @@
         },
         {
             "name": "serverfireteam/panel",
-            "version": "1.3.13",
+            "version": "1.3.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/serverfireteam/panel.git",
-                "reference": "d555da65ee5dfc891f1681107b6898f39c82962c"
+                "reference": "bccb7802d0e0d1ae62b76086dd48be859ac44263"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/serverfireteam/panel/zipball/d555da65ee5dfc891f1681107b6898f39c82962c",
-                "reference": "d555da65ee5dfc891f1681107b6898f39c82962c",
+                "url": "https://api.github.com/repos/serverfireteam/panel/zipball/bccb7802d0e0d1ae62b76086dd48be859ac44263",
+                "reference": "bccb7802d0e0d1ae62b76086dd48be859ac44263",
                 "shasum": ""
             },
             "require": {
@@ -1515,7 +1515,7 @@
                 "laravel",
                 "panel"
             ],
-            "time": "2015-09-22 08:40:53"
+            "time": "2015-11-18 14:02:48"
         },
         {
             "name": "serverfireteam/rapyd-laravel",
